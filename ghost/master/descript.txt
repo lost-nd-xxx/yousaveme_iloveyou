@@ -1,0 +1,12 @@
+﻿charset,UTF-8
+type,ghost
+name,You save me, I love you.
+
+craftman,lost_nd_xxx
+craftmanw,ろすえん
+craftmanurl,https://lnx.flop.jp/
+
+sakura.name,扉とその向こうの弟
+icon,icon.ico
+
+shiori,satori.dll

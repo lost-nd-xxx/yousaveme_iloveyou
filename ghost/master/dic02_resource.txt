@@ -1,0 +1,25 @@
+＃SHIORI Resource等
+
+
+＠username
+（ユーザ名） 
+
+
+＠recommendrootbutton.caption
+配布元/連絡先
+
+
+＠recommendrootbutton.visible
+1
+
+
+＠portalrootbutton.visible
+0
+＃展開不可能に（現状では中身が無いので）
+
+
+＊sakura.portalsites
+配布元/連絡先
+https://lnx.flop.jp/
+
+

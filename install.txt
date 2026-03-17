@@ -1,0 +1,4 @@
+charset,UTF-8
+type,ghost
+name,You save me, I love you.
+directory,lnx_YouSaveMe_ILoveYou
