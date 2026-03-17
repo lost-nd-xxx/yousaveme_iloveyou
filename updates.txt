@@ -1,6 +1,6 @@
 charset,UTF-8
 file,developer_options.txt0a10830176cd57f48e9d63ed8c84ccd3size=226date=2012-12-21T00:00:00
-file,ghost/master/descript.txt268707eede3405b7c4092e299ad3366dsize=210date=2012-12-21T00:00:00
+file,ghost/master/descript.txta46dc8e4547891284d1731c3b4c4998dsize=290date=2012-12-21T00:00:00
 file,ghost/master/dic00_common.txtabb5bbe3aedf45ef2c6d54023268d037size=5703date=2012-12-21T00:00:00
 file,ghost/master/dic01_bootend.txtc18f91d3607509e1b0a1e3a1aaa46123size=4765date=2012-12-21T00:00:00
 file,ghost/master/dic02_resource.txta749aca1cff8a38dbfde5fe41fd6973csize=304date=2012-12-21T00:00:00
@@ -13,7 +13,7 @@ file,ghost/master/satori.dll103437d4bef21c3ceced582a67ca5c82size=716800date=2
 file,ghost/master/satori_bootconf.txtf755e4251a9d8b06706839ca921627f2size=17date=2012-12-21T00:00:00
 file,ghost/master/satori_conf.txtc8b21b487df6b690954f5f50729f0b5esize=362date=2012-12-21T00:00:00
 file,install.txted5f3460326c9e674c18c23692ff5b94size=88date=2012-12-21T00:00:00
-file,readme.txta3b3c65da989da010a750c2f6d1a3bb8size=916date=2012-12-21T00:00:00
+file,readme.txt372d20177ac3408ef2515437af113215size=1346date=2012-12-21T00:00:00
 file,shell/master/descript.txt9ffb6302c8107f99718a64e9b1c2ddb8size=783date=2012-12-21T00:00:00
 file,shell/master/menu_bg.png372b29fd9d897eecbed1ed850e559d14size=87303date=2012-12-21T00:00:00
 file,shell/master/menu_fg.pngb348fb8e85b73c410ac7820a9851111csize=84824date=2012-12-21T00:00:00
